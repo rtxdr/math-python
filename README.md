@@ -1,0 +1,4 @@
+- my name is gmista and i make the worst code ever
+- do not download my code they are a waste of space
+- my code is so bad
+- i have to take python classes
