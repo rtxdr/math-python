@@ -1,15 +1,19 @@
-# Math formulas solver
+# Math solver 3.0
 
 ## disclaimer
-my code is so bad
-with this math python script you can feel real pain because my code is super unoptimised
+my code sucks
 
 ## about this code
-i have to take python classes...
-also i want to start coding on java but i can't even make proper python code so i guess i'm going to make the ultimate spaghetti code of 2021
+it doesnt even work lmao
 
 #### supported formulas :
 - pythagor teorem idk how to write that
+- trigonometric equation (coming soon)
+
+## special thanks
+- my cool maths teacher
+- my cool physics teacher
+- my cool IT teacher
 
 ## support me
 a simple comment saying how cool my code is will make me very productive
