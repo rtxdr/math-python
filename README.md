@@ -1,19 +1,22 @@
-# Math solver 3.0
+# Math solver
 
-## disclaimer
+## Disclaimer ⚠️
 my code sucks
+it got a little better though
 
-## about this code
-it doesnt even work lmao
+## About this code
+version 1 : it can only process one equation
 
-#### supported formulas :
+#### Supported formulas :
 - pythagor teorem idk how to write that
 - trigonometric equation (coming soon)
 
-## special thanks
+## Special thanks
 - my cool maths teacher
 - my cool physics teacher
 - my cool IT teacher
 
-## support me
+## Support me
 a simple comment saying how cool my code is will make me very productive
+
+## Modules used
