@@ -20,3 +20,4 @@ version 1 : it can only process one equation
 a simple comment saying how cool my code is will make me very productive
 
 ## Modules used
+- tkinter
